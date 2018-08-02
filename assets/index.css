@@ -1,0 +1,69 @@
+.body{
+    background-image: url()
+}
+.container {
+	padding: 0 20%;
+}
+
+.header {
+	display: flex;
+	border: 1px solid;
+    justify-content: space-between;
+    background-color: #AD0012;
+}
+
+.hello {
+	border: 1px solid;
+	padding: 10px;
+	text-align: justify;
+	margin-top: 10px;
+}
+
+.sidebar {
+	padding: 10px;
+	text-align: justify;
+}
+
+.right {
+	border: 1px solid;
+	margin-left: 10px;
+	margin-top: 10px;
+	flex: 0 0 30%;
+}
+
+.header h3 {
+	padding-left: 10px;
+}
+
+.menu ul li {
+	display: inline;
+	list-style-type: none;
+}
+
+.menu-navigation li {
+	padding: 0 10px;
+}
+
+.konten-container {
+	display: flex;
+	background-color: darkgrey;
+}
+
+.footer {
+	margin: 10px 0;
+	border: 1px solid;
+	padding: 10px;
+	background-color: darkkhaki;
+}
+.title{
+	color: whitesmoke;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.judul{
+	color: whitesmoke;
+	font-family: cursive;
+}
+.sidebar{
+	color: whitesmoke;
+	font-family:cursive;
+}
