@@ -2,7 +2,7 @@
     background-image: url()
 }
 .container {
-	padding: 0 20%;
+	padding: 0 11%;
 }
 
 .header {
@@ -50,6 +50,8 @@
 }
 
 .footer {
+	font-family: monospace;
+	text-align: center;
 	margin: 10px 0;
 	border: 1px solid;
 	padding: 10px;
